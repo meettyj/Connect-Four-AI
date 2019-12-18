@@ -8,7 +8,7 @@ This game supports
 
 
 <p align="center">
-  <img src="https://github.com/meettyj/Connect-Four-AI/raw/master/images/two_window.png" />
+  <img src="https://github.com/meettyj/Connect-Four-AI/raw/master/images/two_windows.png" />
 </p>
 
 ## Play with human
